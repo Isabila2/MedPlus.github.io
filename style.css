@@ -304,16 +304,27 @@ html {
 
 }
 
+*{
+position: absolute;
+left: 18%;
+}
 
 
 
+
+
+
+
+
+
+
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
 
 /* unidades */
-/*.201_76 { 
-	overflow:hidden;
-} */
 .e201_76 {
 	background-color: rgba(255, 255, 255, 1);
 	width: 3;
@@ -328,18 +339,6 @@ html {
 	left: 0px;
 	top: 0px;
 	background-image: url(images/logo_removebg_preview_1.png);
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
-.e201_87 {
-	background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
-	width: 100%;
-	height: 923px;
-	position: absolute;
-	left: 0px;
-	top: 110px;
-	background-image: url(images/imagem_principal.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -580,6 +579,20 @@ html {
 	top: 5px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
 
@@ -1093,42 +1106,39 @@ html {
 .e515_122 {
 	margin-top: 75px;
 }
-
 /* Home */
 html {
-	height: 100%;
-	width: 100%;
-}
+    height: 100%;
+    width: 100%;
+    }
+    .foto1{
+      width: 325px; 
+      height: 120px;
+      
+      
+      
+    
+    }
+    p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .abap{
+        display: flex;
+       align-items: self-start;
+        justify-content: space-between;
+        border: 4px solid #2079b0;
+     
+     
+    
+    }
 
-.foto1 {
-	width: 325px;
-	height: 120px;
-
-
-
-
-}
-
-p {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.abap {
-	display: flex;
-	align-items: self-start;
-	justify-content: space-between;
-	border: 4px solid #2079b0;
-
-
-
-}
-
-.login1 {
-	width: 150px;
-	height: 100px;
-}
-
-
+    .login1{
+      width: 150px;
+      height: 100px;
+    }
+    
+    
 
 .fundo1 {
 	height: 30%;
@@ -1372,12 +1382,11 @@ p {
 	color: white;
 }
 
-.direitosc {
-	position: relative;
-	bottom: 30%;
-	color: white;
-}
-/*-----------------------------------------------------------------------------------------------------------*/
+      .direitosc{
+        position: relative;
+        bottom: 30%;
+        color: white;
+      }
 
 
 /* Tela do Paciente */

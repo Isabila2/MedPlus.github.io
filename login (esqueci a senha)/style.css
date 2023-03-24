@@ -63,7 +63,6 @@ position:absolute;
 
 
 
-
 .e268_31 { 
 	background-color:rgba(146.62499696016312, 209.4824856519699, 255, 1);
 	width:399px;
@@ -115,23 +114,41 @@ position:absolute;
 }
 .e268_35 { 
 	color:rgba(255, 255, 255, 1);
-	width:82px;
-	height:24px;
+	width: 84px;;
+	height:30px;
 	position:absolute;
 	left:189px;
-	top:316px;
+	top: 308px;
 	font-family:Inter;
 	text-align:left;
 	font-size:20px;
 	letter-spacing:0;
 }
+
+
+.texto1 { 
+	color:rgba(255, 255, 255, 1);
+	width: 84px;;
+	height:30px;
+	position:absolute;
+	left:50px;
+	top: 315px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+
+
+
 .e268_36 { 
 	color:rgba(32.00000189244747, 121.00000038743019, 176.00000470876694, 1);
 	width:202px;
 	height:20px;
 	position:absolute;
 	left:143px;
-	top:357px;
+	top:380px;
 	font-family:Magra;
 	text-align:left;
 	font-size:15px;

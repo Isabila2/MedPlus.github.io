@@ -292,6 +292,14 @@ position:absolute;
 
 
 
+
+
+
+
+
+
+
+
 /* unidades */
 /*.201_76 { 
 	overflow:hidden;
@@ -314,12 +322,12 @@ position:absolute;
 }
 .e201_87 {
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
-	width: 100%;
+	width: 1918px;
 	height:923px;
 	position:absolute;
 	left:0px;
 	top:110px;
-	background-image:url(images/imagem_principal.png);
+	background-image:url(imagem_principal.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -538,6 +546,11 @@ position:absolute;
 	left:213px;
 	top:5px;
 }
+
+
+
+
+
 
 
 
